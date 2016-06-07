@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<e des="东洋方向" thumb="img/2.jpg" deeplink="作品展示/project1" pagetitle="Designer's Portfolio - Simple 标题">
+		<info des="标题" sub="题目">
+			<![CDATA[<b><font color="#EB325C">昨天</font> 今天</b><br><br>怎么解释<br><br>哈哈]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[2004]]></e>
+			<e type="地点:"><![CDATA[海之韵]]></e>
+			<e type="简要说明:"><![CDATA[信手一指]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地方</a>]]></e>
+		</details>
+		<images>
+			<e img="img/3.jpg">
+				<![CDATA[<b>2004年在东海公园不经意的指到了今天的方向.</b> 呵呵...]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频标题" thumb="img/t2.jpg" deeplink="作品展示/project2" pagetitle="Designer's Portfolio - Video 标题">
+		<info des="视频" sub="题目">
+			<![CDATA[<font color="#EB325C">这里将是一个视频节目.</font> 关于视频的介绍.]]>
+		</info>
+		<details>
+			<e type="摄像时间:"><![CDATA[时间]]></e>
+			<e type="摄像地点:"><![CDATA[地点]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地址</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+				<![CDATA[现在还没有视频, 等我和陈老师学学.]]>
+			</e>
+		</images>
+	</e>
+	<e des="大图片" thumb="img/t3.jpg" deeplink="作品展示/project3" pagetitle="Designer's Portfolio - Large Picture 标题">
+		<info des="大图片标题" sub="大图片题目">
+			<![CDATA[<font color="#EB325C">这里展示的是大图片</font> 关于大图片的介绍<br><br>还是一些介绍.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哪年哪月]]></e>
+			<e type="地点:"><![CDATA[地名]]></e>
+			<e type="介绍:"><![CDATA[怎么怎么回事]]></e>
+		</details>
+		<images>
+			<e img="img/5.jpg" imgbig="img/4.jpg">
+				<![CDATA[点击上面图片, 将显示大图实际尺寸.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画展示" thumb="img/t4.jpg" deeplink="作品展示/project4" pagetitle="Designer's Portfolio - SWF 标题">
+		<info des="动画标题" sub="动画题目">
+			<![CDATA[<font color="#EB325C">这里展示的是动画</font> 这里写关于动画的介绍]]>
+		</info>
+		<details>
+			<e type="制作时间:"><![CDATA[时间]]></e>
+			<e type="制作原因:"><![CDATA[什么什么的]]></e>
+			<e type="作品意思:"><![CDATA[哈哈呵呵的]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连出去</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[也是一些关于这个动画的说明.]]>
+			</e>
+		</images>
+	</e>
+	<e des="组合展示" thumb="img/t5.jpg" deeplink="作品展示/project5" pagetitle="Designer's Portfolio - Large 标题">
+		<info des="组合题目" sub="组合名字">
+			<![CDATA[<font color="#EB325C">这是个组合的项目展示.</font> 这些是介绍<br><br>这些还是介绍<br><br>还是<br><br>还是啊<br><br>真啰嗦]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[地点]]></e>
+			<e type="怎么回事:"><![CDATA[说说吧]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img5.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+			<e img="img/img3.jpg" imgbig="img/img3big.jpg">
+				<![CDATA[点击放大.]]>
+			</e>
+			<e img="img/img4.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频图片组合" thumb="img/t6.jpg" deeplink="作品展示/project6" pagetitle="Designer's Portfolio - Mixed Project #1">
+		<info des="组合名称" sub="">
+			<![CDATA[<font color="#EB325C">这里是视频和图片的组合展示</font> 关于视频和图片的介绍<br><br>还是一些介绍什么的]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="背景:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+			</e>
+			<e img="img/img1.jpg">
+				<![CDATA[具体提示.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画图片组合" thumb="img/t7.jpg" deeplink="作品展示/project7" pagetitle="Designer's Portfolio - Mixed Project #2">
+		<info des="组合名称" sub="名称">
+			<![CDATA[<font color="#EB325C">这里是动画和图片的展示.</font> 具体的介绍.<br><br>还是介绍<br><br>还真不少.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哦]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="原因:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[提示一下.]]>
+			</e>
+			<e img="img/img3.jpg" img="img/img3big.jpg">
+				<![CDATA[再提示一下.]]>
+			</e>
+		</images>
+	</e>
+	<e des="普通尺寸图片" thumb="img/t1.jpg" deeplink="作品展示/project1" pagetitle="Designer's Portfolio - Simple 标题">
+		<info des="标题" sub="题目">
+			<![CDATA[<b><font color="#EB325C">第一张照片</font> 照片相关的说明</b><br><br>具体内容一大堆<br><br>这些还是内容]]>
+		</info>
+		<details>
+			<e type="拍摄时间:"><![CDATA[时间]]></e>
+			<e type="拍摄地点:"><![CDATA[某某地方]]></e>
+			<e type="简要说明:"><![CDATA[乱七八糟]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地方</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img1.jpg">
+				<![CDATA[<b>这里也是一些关于图片的介绍.</b> 这里也是一些关于图片的介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频标题" thumb="img/t2.jpg" deeplink="作品展示/project2" pagetitle="Designer's Portfolio - Video 标题">
+		<info des="视频" sub="题目">
+			<![CDATA[<font color="#EB325C">这里将是一个视频节目.</font> 关于视频的介绍.]]>
+		</info>
+		<details>
+			<e type="摄像时间:"><![CDATA[时间]]></e>
+			<e type="摄像地点:"><![CDATA[地点]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地址</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+				<![CDATA[现在还没有视频, 等我和陈老师学学.]]>
+			</e>
+		</images>
+	</e>
+	<e des="大图片" thumb="img/t3.jpg" deeplink="作品展示/project3" pagetitle="Designer's Portfolio - Large Picture 标题">
+		<info des="大图片标题" sub="大图片题目">
+			<![CDATA[<font color="#EB325C">这里展示的是大图片</font> 关于大图片的介绍<br><br>还是一些介绍.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哪年哪月]]></e>
+			<e type="地点:"><![CDATA[地名]]></e>
+			<e type="介绍:"><![CDATA[怎么怎么回事]]></e>
+		</details>
+		<images>
+			<e img="img/img2.jpg" imgbig="img/img2big.jpg">
+				<![CDATA[点击上面图片, 将显示大图实际尺寸.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画展示" thumb="img/t4.jpg" deeplink="作品展示/project4" pagetitle="Designer's Portfolio - SWF 标题">
+		<info des="动画标题" sub="动画题目">
+			<![CDATA[<font color="#EB325C">这里展示的是动画</font> 这里写关于动画的介绍]]>
+		</info>
+		<details>
+			<e type="制作时间:"><![CDATA[时间]]></e>
+			<e type="制作原因:"><![CDATA[什么什么的]]></e>
+			<e type="作品意思:"><![CDATA[哈哈呵呵的]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连出去</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[也是一些关于这个动画的说明.]]>
+			</e>
+		</images>
+	</e>
+	<e des="组合展示" thumb="img/t5.jpg" deeplink="作品展示/project5" pagetitle="Designer's Portfolio - Large 标题">
+		<info des="组合题目" sub="组合名字">
+			<![CDATA[<font color="#EB325C">这是个组合的项目展示.</font> 这些是介绍<br><br>这些还是介绍<br><br>还是<br><br>还是啊<br><br>真啰嗦]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[地点]]></e>
+			<e type="怎么回事:"><![CDATA[说说吧]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img5.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+			<e img="img/img3.jpg" imgbig="img/img3big.jpg">
+				<![CDATA[点击放大.]]>
+			</e>
+			<e img="img/img4.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频图片组合" thumb="img/t6.jpg" deeplink="作品展示/project6" pagetitle="Designer's Portfolio - Mixed Project #1">
+		<info des="组合名称" sub="">
+			<![CDATA[<font color="#EB325C">这里是视频和图片的组合展示</font> 关于视频和图片的介绍<br><br>还是一些介绍什么的]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="背景:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+			</e>
+			<e img="img/img1.jpg">
+				<![CDATA[具体提示.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画图片组合" thumb="img/t7.jpg" deeplink="作品展示/project7" pagetitle="Designer's Portfolio - Mixed Project #2">
+		<info des="组合名称" sub="名称">
+			<![CDATA[<font color="#EB325C">这里是动画和图片的展示.</font> 具体的介绍.<br><br>还是介绍<br><br>还真不少.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哦]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="原因:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[提示一下.]]>
+			</e>
+			<e img="img/img3.jpg" img="img/img3big.jpg">
+				<![CDATA[再提示一下.]]>
+			</e>
+		</images>
+	</e>
+	<e des="普通尺寸图片" thumb="img/t1.jpg" deeplink="作品展示/project1" pagetitle="Designer's Portfolio - Simple 标题">
+		<info des="标题" sub="题目">
+			<![CDATA[<b><font color="#EB325C">第一张照片</font> 照片相关的说明</b><br><br>具体内容一大堆<br><br>这些还是内容]]>
+		</info>
+		<details>
+			<e type="拍摄时间:"><![CDATA[时间]]></e>
+			<e type="拍摄地点:"><![CDATA[某某地方]]></e>
+			<e type="简要说明:"><![CDATA[乱七八糟]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地方</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img1.jpg">
+				<![CDATA[<b>这里也是一些关于图片的介绍.</b> 这里也是一些关于图片的介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频标题" thumb="img/t2.jpg" deeplink="作品展示/project2" pagetitle="Designer's Portfolio - Video 标题">
+		<info des="视频" sub="题目">
+			<![CDATA[<font color="#EB325C">这里将是一个视频节目.</font> 关于视频的介绍.]]>
+		</info>
+		<details>
+			<e type="摄像时间:"><![CDATA[时间]]></e>
+			<e type="摄像地点:"><![CDATA[地点]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地址</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+				<![CDATA[现在还没有视频, 等我和陈老师学学.]]>
+			</e>
+		</images>
+	</e>
+	<e des="大图片" thumb="img/t3.jpg" deeplink="作品展示/project3" pagetitle="Designer's Portfolio - Large Picture 标题">
+		<info des="大图片标题" sub="大图片题目">
+			<![CDATA[<font color="#EB325C">这里展示的是大图片</font> 关于大图片的介绍<br><br>还是一些介绍.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哪年哪月]]></e>
+			<e type="地点:"><![CDATA[地名]]></e>
+			<e type="介绍:"><![CDATA[怎么怎么回事]]></e>
+		</details>
+		<images>
+			<e img="img/img2.jpg" imgbig="img/img2big.jpg">
+				<![CDATA[点击上面图片, 将显示大图实际尺寸.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画展示" thumb="img/t4.jpg" deeplink="作品展示/project4" pagetitle="Designer's Portfolio - SWF 标题">
+		<info des="动画标题" sub="动画题目">
+			<![CDATA[<font color="#EB325C">这里展示的是动画</font> 这里写关于动画的介绍]]>
+		</info>
+		<details>
+			<e type="制作时间:"><![CDATA[时间]]></e>
+			<e type="制作原因:"><![CDATA[什么什么的]]></e>
+			<e type="作品意思:"><![CDATA[哈哈呵呵的]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连出去</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[也是一些关于这个动画的说明.]]>
+			</e>
+		</images>
+	</e>
+	<e des="组合展示" thumb="img/t5.jpg" deeplink="作品展示/project5" pagetitle="Designer's Portfolio - Large 标题">
+		<info des="组合题目" sub="组合名字">
+			<![CDATA[<font color="#EB325C">这是个组合的项目展示.</font> 这些是介绍<br><br>这些还是介绍<br><br>还是<br><br>还是啊<br><br>真啰嗦]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[地点]]></e>
+			<e type="怎么回事:"><![CDATA[说说吧]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img5.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+			<e img="img/img3.jpg" imgbig="img/img3big.jpg">
+				<![CDATA[点击放大.]]>
+			</e>
+			<e img="img/img4.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频图片组合" thumb="img/t6.jpg" deeplink="作品展示/project6" pagetitle="Designer's Portfolio - Mixed Project #1">
+		<info des="组合名称" sub="">
+			<![CDATA[<font color="#EB325C">这里是视频和图片的组合展示</font> 关于视频和图片的介绍<br><br>还是一些介绍什么的]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="背景:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+			</e>
+			<e img="img/img1.jpg">
+				<![CDATA[具体提示.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画图片组合" thumb="img/t7.jpg" deeplink="作品展示/project7" pagetitle="Designer's Portfolio - Mixed Project #2">
+		<info des="组合名称" sub="名称">
+			<![CDATA[<font color="#EB325C">这里是动画和图片的展示.</font> 具体的介绍.<br><br>还是介绍<br><br>还真不少.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哦]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="原因:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[提示一下.]]>
+			</e>
+			<e img="img/img3.jpg" img="img/img3big.jpg">
+				<![CDATA[再提示一下.]]>
+			</e>
+		</images>
+	</e>
+	<e des="普通尺寸图片" thumb="img/t1.jpg" deeplink="作品展示/project1" pagetitle="Designer's Portfolio - Simple 标题">
+		<info des="标题" sub="题目">
+			<![CDATA[<b><font color="#EB325C">第一张照片</font> 照片相关的说明</b><br><br>具体内容一大堆<br><br>这些还是内容]]>
+		</info>
+		<details>
+			<e type="拍摄时间:"><![CDATA[时间]]></e>
+			<e type="拍摄地点:"><![CDATA[某某地方]]></e>
+			<e type="简要说明:"><![CDATA[乱七八糟]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地方</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img1.jpg">
+				<![CDATA[<b>这里也是一些关于图片的介绍.</b> 这里也是一些关于图片的介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频标题" thumb="img/t2.jpg" deeplink="作品展示/project2" pagetitle="Designer's Portfolio - Video 标题">
+		<info des="视频" sub="题目">
+			<![CDATA[<font color="#EB325C">这里将是一个视频节目.</font> 关于视频的介绍.]]>
+		</info>
+		<details>
+			<e type="摄像时间:"><![CDATA[时间]]></e>
+			<e type="摄像地点:"><![CDATA[地点]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地址</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+				<![CDATA[现在还没有视频, 等我和陈老师学学.]]>
+			</e>
+		</images>
+	</e>
+	<e des="大图片" thumb="img/t3.jpg" deeplink="作品展示/project3" pagetitle="Designer's Portfolio - Large Picture 标题">
+		<info des="大图片标题" sub="大图片题目">
+			<![CDATA[<font color="#EB325C">这里展示的是大图片</font> 关于大图片的介绍<br><br>还是一些介绍.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哪年哪月]]></e>
+			<e type="地点:"><![CDATA[地名]]></e>
+			<e type="介绍:"><![CDATA[怎么怎么回事]]></e>
+		</details>
+		<images>
+			<e img="img/img2.jpg" imgbig="img/img2big.jpg">
+				<![CDATA[点击上面图片, 将显示大图实际尺寸.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画展示" thumb="img/t4.jpg" deeplink="作品展示/project4" pagetitle="Designer's Portfolio - SWF 标题">
+		<info des="动画标题" sub="动画题目">
+			<![CDATA[<font color="#EB325C">这里展示的是动画</font> 这里写关于动画的介绍]]>
+		</info>
+		<details>
+			<e type="制作时间:"><![CDATA[时间]]></e>
+			<e type="制作原因:"><![CDATA[什么什么的]]></e>
+			<e type="作品意思:"><![CDATA[哈哈呵呵的]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连出去</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[也是一些关于这个动画的说明.]]>
+			</e>
+		</images>
+	</e>
+	<e des="组合展示" thumb="img/t5.jpg" deeplink="作品展示/project5" pagetitle="Designer's Portfolio - Large 标题">
+		<info des="组合题目" sub="组合名字">
+			<![CDATA[<font color="#EB325C">这是个组合的项目展示.</font> 这些是介绍<br><br>这些还是介绍<br><br>还是<br><br>还是啊<br><br>真啰嗦]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[地点]]></e>
+			<e type="怎么回事:"><![CDATA[说说吧]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img5.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+			<e img="img/img3.jpg" imgbig="img/img3big.jpg">
+				<![CDATA[点击放大.]]>
+			</e>
+			<e img="img/img4.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频图片组合" thumb="img/t6.jpg" deeplink="作品展示/project6" pagetitle="Designer's Portfolio - Mixed Project #1">
+		<info des="组合名称" sub="">
+			<![CDATA[<font color="#EB325C">这里是视频和图片的组合展示</font> 关于视频和图片的介绍<br><br>还是一些介绍什么的]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="背景:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+			</e>
+			<e img="img/img1.jpg">
+				<![CDATA[具体提示.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画图片组合" thumb="img/t7.jpg" deeplink="作品展示/project7" pagetitle="Designer's Portfolio - Mixed Project #2">
+		<info des="组合名称" sub="名称">
+			<![CDATA[<font color="#EB325C">这里是动画和图片的展示.</font> 具体的介绍.<br><br>还是介绍<br><br>还真不少.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哦]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="原因:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[提示一下.]]>
+			</e>
+			<e img="img/img3.jpg" img="img/img3big.jpg">
+				<![CDATA[再提示一下.]]>
+			</e>
+		</images>
+	</e>
+	<e des="普通尺寸图片" thumb="img/t1.jpg" deeplink="作品展示/project1" pagetitle="Designer's Portfolio - Simple 标题">
+		<info des="标题" sub="题目">
+			<![CDATA[<b><font color="#EB325C">第一张照片</font> 照片相关的说明</b><br><br>具体内容一大堆<br><br>这些还是内容]]>
+		</info>
+		<details>
+			<e type="拍摄时间:"><![CDATA[时间]]></e>
+			<e type="拍摄地点:"><![CDATA[某某地方]]></e>
+			<e type="简要说明:"><![CDATA[乱七八糟]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地方</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img1.jpg">
+				<![CDATA[<b>这里也是一些关于图片的介绍.</b> 这里也是一些关于图片的介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频标题" thumb="img/t2.jpg" deeplink="作品展示/project2" pagetitle="Designer's Portfolio - Video 标题">
+		<info des="视频" sub="题目">
+			<![CDATA[<font color="#EB325C">这里将是一个视频节目.</font> 关于视频的介绍.]]>
+		</info>
+		<details>
+			<e type="摄像时间:"><![CDATA[时间]]></e>
+			<e type="摄像地点:"><![CDATA[地点]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地址</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+				<![CDATA[现在还没有视频, 等我和陈老师学学.]]>
+			</e>
+		</images>
+	</e>
+	<e des="大图片" thumb="img/t3.jpg" deeplink="作品展示/project3" pagetitle="Designer's Portfolio - Large Picture 标题">
+		<info des="大图片标题" sub="大图片题目">
+			<![CDATA[<font color="#EB325C">这里展示的是大图片</font> 关于大图片的介绍<br><br>还是一些介绍.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哪年哪月]]></e>
+			<e type="地点:"><![CDATA[地名]]></e>
+			<e type="介绍:"><![CDATA[怎么怎么回事]]></e>
+		</details>
+		<images>
+			<e img="img/img2.jpg" imgbig="img/img2big.jpg">
+				<![CDATA[点击上面图片, 将显示大图实际尺寸.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画展示" thumb="img/t4.jpg" deeplink="作品展示/project4" pagetitle="Designer's Portfolio - SWF 标题">
+		<info des="动画标题" sub="动画题目">
+			<![CDATA[<font color="#EB325C">这里展示的是动画</font> 这里写关于动画的介绍]]>
+		</info>
+		<details>
+			<e type="制作时间:"><![CDATA[时间]]></e>
+			<e type="制作原因:"><![CDATA[什么什么的]]></e>
+			<e type="作品意思:"><![CDATA[哈哈呵呵的]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连出去</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[也是一些关于这个动画的说明.]]>
+			</e>
+		</images>
+	</e>
+	<e des="组合展示" thumb="img/t5.jpg" deeplink="作品展示/project5" pagetitle="Designer's Portfolio - Large 标题">
+		<info des="组合题目" sub="组合名字">
+			<![CDATA[<font color="#EB325C">这是个组合的项目展示.</font> 这些是介绍<br><br>这些还是介绍<br><br>还是<br><br>还是啊<br><br>真啰嗦]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[地点]]></e>
+			<e type="怎么回事:"><![CDATA[说说吧]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img5.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+			<e img="img/img3.jpg" imgbig="img/img3big.jpg">
+				<![CDATA[点击放大.]]>
+			</e>
+			<e img="img/img4.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频图片组合" thumb="img/t6.jpg" deeplink="作品展示/project6" pagetitle="Designer's Portfolio - Mixed Project #1">
+		<info des="组合名称" sub="">
+			<![CDATA[<font color="#EB325C">这里是视频和图片的组合展示</font> 关于视频和图片的介绍<br><br>还是一些介绍什么的]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="背景:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+			</e>
+			<e img="img/img1.jpg">
+				<![CDATA[具体提示.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画图片组合" thumb="img/t7.jpg" deeplink="作品展示/project7" pagetitle="Designer's Portfolio - Mixed Project #2">
+		<info des="组合名称" sub="名称">
+			<![CDATA[<font color="#EB325C">这里是动画和图片的展示.</font> 具体的介绍.<br><br>还是介绍<br><br>还真不少.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哦]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="原因:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[提示一下.]]>
+			</e>
+			<e img="img/img3.jpg" img="img/img3big.jpg">
+				<![CDATA[再提示一下.]]>
+			</e>
+		</images>
+	</e>
+	<e des="普通尺寸图片" thumb="img/t1.jpg" deeplink="作品展示/project1" pagetitle="Designer's Portfolio - Simple 标题">
+		<info des="标题" sub="题目">
+			<![CDATA[<b><font color="#EB325C">第一张照片</font> 照片相关的说明</b><br><br>具体内容一大堆<br><br>这些还是内容]]>
+		</info>
+		<details>
+			<e type="拍摄时间:"><![CDATA[时间]]></e>
+			<e type="拍摄地点:"><![CDATA[某某地方]]></e>
+			<e type="简要说明:"><![CDATA[乱七八糟]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地方</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img1.jpg">
+				<![CDATA[<b>这里也是一些关于图片的介绍.</b> 这里也是一些关于图片的介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频标题" thumb="img/t2.jpg" deeplink="作品展示/project2" pagetitle="Designer's Portfolio - Video 标题">
+		<info des="视频" sub="题目">
+			<![CDATA[<font color="#EB325C">这里将是一个视频节目.</font> 关于视频的介绍.]]>
+		</info>
+		<details>
+			<e type="摄像时间:"><![CDATA[时间]]></e>
+			<e type="摄像地点:"><![CDATA[地点]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连一个地址</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+				<![CDATA[现在还没有视频, 等我和陈老师学学.]]>
+			</e>
+		</images>
+	</e>
+	<e des="大图片" thumb="img/t3.jpg" deeplink="作品展示/project3" pagetitle="Designer's Portfolio - Large Picture 标题">
+		<info des="大图片标题" sub="大图片题目">
+			<![CDATA[<font color="#EB325C">这里展示的是大图片</font> 关于大图片的介绍<br><br>还是一些介绍.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哪年哪月]]></e>
+			<e type="地点:"><![CDATA[地名]]></e>
+			<e type="介绍:"><![CDATA[怎么怎么回事]]></e>
+		</details>
+		<images>
+			<e img="img/img2.jpg" imgbig="img/img2big.jpg">
+				<![CDATA[点击上面图片, 将显示大图实际尺寸.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画展示" thumb="img/t4.jpg" deeplink="作品展示/project4" pagetitle="Designer's Portfolio - SWF 标题">
+		<info des="动画标题" sub="动画题目">
+			<![CDATA[<font color="#EB325C">这里展示的是动画</font> 这里写关于动画的介绍]]>
+		</info>
+		<details>
+			<e type="制作时间:"><![CDATA[时间]]></e>
+			<e type="制作原因:"><![CDATA[什么什么的]]></e>
+			<e type="作品意思:"><![CDATA[哈哈呵呵的]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">连出去</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[也是一些关于这个动画的说明.]]>
+			</e>
+		</images>
+	</e>
+	<e des="组合展示" thumb="img/t5.jpg" deeplink="作品展示/project5" pagetitle="Designer's Portfolio - Large 标题">
+		<info des="组合题目" sub="组合名字">
+			<![CDATA[<font color="#EB325C">这是个组合的项目展示.</font> 这些是介绍<br><br>这些还是介绍<br><br>还是<br><br>还是啊<br><br>真啰嗦]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[地点]]></e>
+			<e type="怎么回事:"><![CDATA[说说吧]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="img/img5.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+			<e img="img/img3.jpg" imgbig="img/img3big.jpg">
+				<![CDATA[点击放大.]]>
+			</e>
+			<e img="img/img4.jpg">
+				<![CDATA[一些介绍.]]>
+			</e>
+		</images>
+	</e>
+	<e des="视频图片组合" thumb="img/t6.jpg" deeplink="作品展示/project6" pagetitle="Designer's Portfolio - Mixed Project #1">
+		<info des="组合名称" sub="">
+			<![CDATA[<font color="#EB325C">这里是视频和图片的组合展示</font> 关于视频和图片的介绍<br><br>还是一些介绍什么的]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[时间]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="背景:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="vid/video.flv" hassound="true">
+			</e>
+			<e img="img/img1.jpg">
+				<![CDATA[具体提示.]]>
+			</e>
+		</images>
+	</e>
+	<e des="动画图片组合" thumb="img/t7.jpg" deeplink="作品展示/project7" pagetitle="Designer's Portfolio - Mixed Project #2">
+		<info des="组合名称" sub="名称">
+			<![CDATA[<font color="#EB325C">这里是动画和图片的展示.</font> 具体的介绍.<br><br>还是介绍<br><br>还真不少.]]>
+		</info>
+		<details>
+			<e type="时间:"><![CDATA[哦]]></e>
+			<e type="地点:"><![CDATA[恩]]></e>
+			<e type="原因:"><![CDATA[对]]></e>
+			<e type="Link:"><![CDATA[<a href="index.html" target="_blank">外链</a>]]></e>
+		</details>
+		<images>
+			<e img="swf/arrows.swf">
+				<![CDATA[提示一下.]]>
+			</e>
+			<e img="img/img3.jpg" img="img/img3big.jpg">
+				<![CDATA[再提示一下.]]>
+			</e>
+		</images>
+	</e>
+</content>

@@ -1,0 +1,10 @@
+@charset "utf-8";
+/* CSS Document */
+
+body { margin:0; padding:0; font-size:12px; font-family:"宋体"; color:#999999;};
+.loaction { color:#acba37;}
+a:link {font:12px; color:#999; text-decoration:none;}
+a:visited {font:12px; color:#999; text-decoration:none;}
+a:hover {font:12px; color:#0caa0d; text-decoration:underline;}
+.height { line-height:20px;}
+

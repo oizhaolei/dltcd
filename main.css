@@ -1,0 +1,9 @@
+body {background-color : #ffffff; color : #333333; font-family : "Verdana", Times, serif;}
+
+a.links2:link {color : #ffffff; font-family : "Verdana"; font-size : 11px; text-decoration : none; font-weight : normal;}
+a.links2:visited {color : #ffffff; font-family : "Verdana"; font-size : 11px; text-decoration : none; font-weight : normal;}
+a.links2:hover {color : #ffffff; font-family : "Verdana"; font-size : 11px; text-decoration : none; font-weight : normal;}
+
+td {color: #000000; font-family: "Verdana"; font-size: 11px; font-weight: normal;}
+.text1 {color: #600000; font-family: "Verdana"; font-size: 12px; font-weight: bold;}
+.links2 {color: #ffffff; font-family: "Verdana"; font-size: 11px; font-weight: normal;}

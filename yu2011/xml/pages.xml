@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<content>
+	<page template="1" des="时标" xmlfeed="xml/news.xml" deeplink="日志" pagetitle="告简要说明-日志"/>
+	<page template="2" des="色记" xmlfeed="xml/portfolio.xml" deeplink="作品展示" pagetitle="展示简要说明 - 作品展示"/>
+	<page template="3" des="解读" xmlfeed="xml/about.xml" deeplink="关于我" pagetitle="简介-我"/>
+	<page template="5" des="乱糟" xmlfeed="xml/swf.xml" deeplink="SWF" pagetitle="合集-定义"/>
+	<page template="6" des="隐秘" ref="index.html" tgt="_blank"/>
+	<page template="4" des="勾引" xmlfeed="xml/contact.xml" deeplink="联系我" pagetitle="本站在线留言本 - 联系我"/>
+</content>
